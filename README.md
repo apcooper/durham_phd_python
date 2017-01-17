@@ -12,6 +12,7 @@ setenv PATH $HOME/.local/bin:$PATH
 ```
 
 (if your shell is `bash`, the second line will be ```export PATH=$HOME/.local/bin:$PATH```)
+This might take a couple of minutes.
 
 Now get the tutorial. Try:
 ```
