@@ -14,7 +14,7 @@ setenv PATH $HOME/.local/bin:$PATH
 (if your shell is `bash`, the second line will be ```export PATH=$HOME/.local/bin:$PATH```).
 The `pip` command might take a couple of minutes to complete.
 
-Now get the tutorial. Try:
+Now get the tutorial notebook. Try:
 ```
 git clone https://github.com/apcooper/python_postgrad_2017.git
 ```
