@@ -5,7 +5,7 @@ Postgrad Python tutorial 2017
 
 Open a terminal.
 
-First, we need to have jupyter installed on your machine. If you don't have the command `jupyter-notebook`, then:
+First, we need to have jupyter installed on your machine. If you don't have the command `jupyter-notebook`, then run these two commands:
 ```
 pip install jupyter --user
 setenv PATH $HOME/.local/bin:$PATH
