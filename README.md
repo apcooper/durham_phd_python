@@ -19,7 +19,7 @@ Now get the tutorial. Try:
 git clone https://github.com/apcooper/python_postgrad_2017.git
 ```
 
-If that doesn't work, use the bright green 'Clone or download' button on github, choose 'Download as zip', save and unzip the file.
+If that doesn't work, [click here](https://github.com/apcooper/python_postgrad_2017/archive/master.zip), save and unzip the file.
 
 Launch the tutorial:
 ```
