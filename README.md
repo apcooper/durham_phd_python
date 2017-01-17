@@ -24,7 +24,7 @@ If that doesn't work, [click here to download](https://github.com/apcooper/pytho
 Launch the tutorial:
 ```
 cd python_postgrad_2017
-jupyter-notebook 01-Introduction.pynb
+jupyter-notebook 01-Introduction.ipynb
 ```
 
 (the directory will be called python_postgrad_2017-master if you downloaded the tutorial as a zip file).
