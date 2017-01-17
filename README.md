@@ -1,9 +1,31 @@
 # python_postgrad_2017
 Postgrad Python tutorial 2017
 
+# Instructions
+
+Open a terminal.
+
+First, we need to have jupyter installed on your machine. If you don't have the command `jupyter-notebook`, then:
 ```
-mkdir tutorial
-wget https://github.com/apcooper/python_postgrad_2017/blob/master/01-Introduction.ipynb
+pip install jupyter --user
+setenv PATH $HOME/.local/bin:$PATH
 ```
+
+(if your shell is `bash`, the second line will be ```export PATH=$HOME/.local/bin:$PATH```)
+
+Now get the tutorial. Try:
+```
+git clone https://github.com/apcooper/python_postgrad_2017.git
+```
+
+If that doesn't work, use the 'Download as zip' button on github, save and unzip the file.
+
+Launch the tutorial:
+```
+cd python_postgrad_2017
+jupyter-notebook 01-introduction.pynb
+```
+
+(the directory will be called python_postgrad_2017-master if you downloaded the tutorial as a zip file).
 
  [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/apcooper/python_postgrad_2017) 
