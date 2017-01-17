@@ -11,8 +11,8 @@ pip install jupyter --user
 setenv PATH $HOME/.local/bin:$PATH
 ```
 
-(if your shell is `bash`, the second line will be ```export PATH=$HOME/.local/bin:$PATH```)
-This might take a couple of minutes.
+(if your shell is `bash`, the second line will be ```export PATH=$HOME/.local/bin:$PATH```).
+The `pip` command might take a couple of minutes to complete.
 
 Now get the tutorial. Try:
 ```
