@@ -1,0 +1,5 @@
+# Name  X       Y       counts     sigma (pixels)
+star    40      38      1e3         2
+star    50      80      1e4         2
+star    13.5    70      2e4         4
+star    80      22.3    5e5         3
