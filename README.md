@@ -15,12 +15,16 @@ repository](https://github.com/apcooper/durham_phd_python/wiki) has some
 background information (some of which will be given as slides in the classes)
 and a description of the notebooks.
 
+In the classes we'll use a local **JupyterHub Server** run by Daniel Maitre.
+
+**[JUPYTER INSTRUCTIONS HERE]**
+
 In 2017 this course was given to Astronomy PhDs and included more
 astronomy-specific material. We won't go through that in class.
 
 My contact details:
 * Dr. Andrew Cooper
 * OCW 226
-* **a.p.cooper** at durham.ac.uk
+* **a.p.cooper** at **durham.ac.uk**
 
 
