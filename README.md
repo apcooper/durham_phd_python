@@ -1,32 +1,26 @@
-# python_postgrad_2017
-Postgrad Python tutorial 2017
+# Postgraduate Python Tutorial 2017/18
 
 # Instructions
 
-Open a terminal.
+The tutorial is made up of a number of Jupyter notebooks to work through at
+your own pace. The two afternoon classes are an opportunity to get started with
+this and ask questions, but if you're completely new to Python there is more
+material than we'll have time to work through in the classes.
 
-First, assuming you already have python, IPython, numpy and matplotlib installed on your machine, we also need to install jupyter. If you don't have the command `jupyter-notebook`, then run these two commands:
-```
-pip install jupyter --user
-setenv PATH $HOME/.local/bin:$PATH
-```
+The notebooks themselves and some supporting files are all in a
+GitHub repository (currently https://github.com/apcooper/durham_phd_python).
 
-(if your shell is `bash`, the second line will be ```export PATH=$HOME/.local/bin:$PATH```).
-The `pip` command might take a couple of minutes to complete.
+[The wiki page for that
+repository](https://github.com/apcooper/durham_phd_python/wiki) has some
+background information (some of which will be given as slides in the classes)
+and a description of the notebooks.
 
-Now get the tutorial notebook. Try:
-```
-git clone https://github.com/apcooper/python_postgrad_2017.git
-```
+In 2017 this course was given to Astronomy PhDs and included more
+astronomy-specific material. We won't go through that in class.
 
-If that doesn't work, [click here to download](https://github.com/apcooper/python_postgrad_2017/archive/master.zip), save and unzip the file.
+My contact details:
+* Dr. Andrew Cooper
+* OCW 226
+* **a.p.cooper** at durham.ac.uk
 
-Launch the tutorial:
-```
-cd python_postgrad_2017
-jupyter-notebook 01-Introduction.ipynb
-```
 
-(the directory will be called python_postgrad_2017-master if you downloaded the tutorial as a zip file).
-
- [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/apcooper/python_postgrad_2017) 
