@@ -21,7 +21,7 @@ In the classes we'll use a local **JupyterHub Server** run by Daniel Maitre.
 
 [https://dmaitre.phyip3.dur.ac.uk/]([https://dmaitre.phyip3.dur.ac.uk/)
 
-`Released assignments -> Course: pyitro`
+`Released assignments -> Course: pyintro`
 
 `Fetch`
 
