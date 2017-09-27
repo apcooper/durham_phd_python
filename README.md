@@ -31,7 +31,6 @@ Choose a notebook to work on from the list in `Downloaded assignments -> PyIntro
 
 Some read-only data files that are used in the tutorials can be found under `/data/pyintro/`.
 
-
 -----
 
 In 2017 this course was given to Astronomy PhDs and included more
