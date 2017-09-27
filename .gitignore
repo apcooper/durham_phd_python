@@ -5,3 +5,5 @@
 tablechallenge.txt
 myfile.txt
 *.pkl
+.ipynb*
+slides/.tmp/*
