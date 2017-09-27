@@ -1,0 +1,9 @@
+# Each non-comment line in this file is supposed
+# to be either a tuple or a list
+(1,2,3,4)
+[a,b,c,d]
+# OK, the next line is neither list nor tuple...
+"Something or other"
+[9,10,11,12]
+(7)
+(a,None,x,None)
