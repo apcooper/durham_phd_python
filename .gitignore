@@ -4,6 +4,7 @@
 *.npz
 tablechallenge.txt
 myfile.txt
+my_table.dat
 *.pkl
 .ipynb*
 slides/.tmp/*
