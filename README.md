@@ -4,8 +4,9 @@
 
 The tutorial is made up of a number of Jupyter notebooks to work through at
 your own pace. The two afternoon classes are an opportunity to get started with
-this and ask questions, but if you're completely new to Python there is more
-material than we'll have time to work through in the classes.
+this and ask questions. Self-study is essential. If you're completely new to
+Python the classes probably won't be enough time to get through all the
+material.
 
 The notebooks themselves and some supporting files are all in a
 GitHub repository (currently https://github.com/apcooper/durham_phd_python).
@@ -34,7 +35,8 @@ Some read-only data files that are used in the tutorials can be found under `/da
 -----
 
 In 2017 this course was given to Astronomy PhDs and included more
-astronomy-specific material. We won't go through that in class.
+astronomy-specific material. We will look at some of that in the session on
+November 2nd.
 
 ---
 
