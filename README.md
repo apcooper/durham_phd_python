@@ -20,9 +20,9 @@ and a description of the notebooks.
 
 In the classes we'll use a local **JupyterHub Server** run by Daniel Maitre.
 
-[https://dmaitre.phyip3.dur.ac.uk/pyintro/notebooks](https://dmaitre.phyip3.dur.ac.uk/pyintro/notebooks)
+`https://dmaitre.phyip3.dur.ac.uk/pyintro/notebooks/user/[YOUR CIS USERNAME HERE]`
 
-Log in with CIS username and password.
+Log in with your CIS username and password.
 
 Click the `Released assignments` tab, ensure that `Course` is  `pyintro` and
 choose `Fetch`. The notebooks for the course will be copied into a local
