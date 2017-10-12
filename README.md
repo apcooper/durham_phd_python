@@ -16,9 +16,12 @@ repository](https://github.com/apcooper/durham_phd_python/wiki) has some
 background information (some of which will be given as slides in the classes)
 and a description of the notebooks.
 
+The slides from the first class are in this repository under
+[/slides/pdf](https://github.com/apcooper/durham_phd_python/blob/master/slides/pdf/presentation.pdf)
+
 ---
 
-In the classes we'll use a local **JupyterHub Server** run by Daniel Maitre.
+In the classes we'll use a local **JupyterHub Server** run by Daniel Maitre (IPPP).
 
 `https://dmaitre.phyip3.dur.ac.uk/pyintro/notebooks/user/[YOUR CIS USERNAME HERE]`
 
@@ -32,7 +35,7 @@ Choose a notebook to work on from the list in `Downloaded assignments -> PyIntro
 
 Some read-only data files that are used in the tutorials can be found under `/data/pyintro/`.
 
------
+----
 
 In 2017 this course was given to Astronomy PhDs and included more
 astronomy-specific material. We will look at some of that in the session on
