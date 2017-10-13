@@ -212,6 +212,22 @@ and ask questions when you get stuck.
 
 ---
 
+## Bored (and know Python) already?
+
+These classes are aimed at those with little prior experience of Python. If you
+already know all this, please spend your time productively...
+
+ * Help others, find all the bugs/confusing statements/missing topics in the notebooks
+ * Complete the two challenges (even if trivial, calibration/example solutions help).
+ 
+Then maybe:
+  * Learn something new in Python (there's always something to learn)?
+  * Work on your own code?
+  * Contribute to an open-source project (e.g. Astropy)?
+  * Learn Haskell?
+
+---
+
 ## Where stuff is
 
 [`https://github.com/apcooper/durham_phd_python`](https://github.com/apcooper/durham_phd_python)
@@ -292,8 +308,7 @@ online.
 
 Being 'fluent' in a language like Python means being able to write concise code
 quickly and in such a way that you can build on it easily, find and fix errors
-quickly, understand it in 6 months time and make it easy for other people to
-understand it. 
+quickly, and explain how it works to other people (and yourself in 6 months time).
 
 - Following tutorials is a good way to get started
 - The only reliable way to improve is through trial and error (blood, sweat, tears etc.)
