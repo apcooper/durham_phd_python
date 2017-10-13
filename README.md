@@ -45,7 +45,7 @@ November 2nd.
 
 My contact details:
 * Dr. Andrew Cooper
-* OCW 226
+* OCW 223
 * **a.p.cooper** at **durham.ac.uk**
 
 
