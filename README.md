@@ -21,7 +21,9 @@ The slides from the first class are in this repository:
 
 ---
 
-In the classes we'll use a local **JupyterHub Server** run by Daniel Maitre (IPPP).
+In the classes we'll use a local **JupyterHub Server** run by Daniel Maitre
+(IPPP) to work with these notebooks (for convenience; if you download the
+notebooks from GitHub, they will also work on your own machine, if you have Python set up with the necessary packages. .
 
 `https://dmaitre.phyip3.dur.ac.uk/pyintro/notebooks/`
 
@@ -29,9 +31,8 @@ Log in with your CIS username and password.
 
 Click the `Released assignments` tab, ensure that `Course` is `pyintro` and
 choose `Fetch`. The notebooks for the course will be copied into a local
-workspace so you can open and edit them.
-
-Choose a notebook to work on from the list in `Downloaded assignments -> PyIntro`
+workspace so you can open and edit them. Choose a notebook to work on from the
+list in `Downloaded assignments -> PyIntro`
 
 Some read-only data files that are used in the tutorials can be found under `/data/pyintro/`.
 
