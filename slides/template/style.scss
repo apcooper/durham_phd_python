@@ -87,6 +87,11 @@ blockquote {
     .remark-code { font-size: .4em; }
 }
 
+.normcode {
+    .remark-code { font-size: .6em; }
+}
+
+
 .full {
   &, h1, h2 { color: $text-light; }
   &iframe {
